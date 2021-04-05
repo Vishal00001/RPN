@@ -1,9 +1,5 @@
 package com.polishnotation;
 
-import org.apache.commons.lang3.StringUtils;
-
-import java.util.Scanner;
-
 /**
  * Created by vishal on 18/3/21.
  */
